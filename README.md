@@ -5,7 +5,7 @@
 - ボタンをクリックして、コンピュータとじゃんけん対戦ができるアプリです。
 
 ## ③アプリのデプロイURL
-- https://kanagaway-art.github.io/janken-tpl/
+- https://kanagaway-art.github.io/janken-shoki/
 
 ## ④アプリのログイン用IDまたはPassword（ある場合）
 - ID: 今回なし
